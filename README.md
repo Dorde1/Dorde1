@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 📚 I’m currently learning about GitHub, Unity, Blender, Flutter and React
+- 📚 I’m currently learning about Java, GitHub, Unity, Blender, Flutter and React
 - 📫 How to reach me: dordenikolic13@gmail.com
-- 🧑 About me: Love making games and reading books
+- 🧑 About me: Love making and playing games
 
 ### How to reach me on social media
 - [Linkedin](https://www.linkedin.com/in/dorde-nikolic-91b4791ba/)
-- [Facebook](https://www.facebook.com/djole.nikolic.9/)
 
 ### Languages
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
