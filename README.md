@@ -4,6 +4,15 @@
 - 📫 How to reach me: dordenikolic13@gmail.com
 - 🧑 About me: Love making and playing games
 
+### Profile
+
+I’m a dedicated and detail oriented Junior Game Programmer, based in New Zealand, with one year experience accustomed to working in fast-pacing and deadline-driven environments.
+
+Seeking to obtain a Junior Game Developer position, that would allow enhancing knowledge and personal strengths, in which my creative skills and programming knowledge can be used as an asset to the company.
+
+Experience in using: C#, React.js, Python, JAVA, Agile Methodologies, Unity, GitHub, Blender, Front-End Development.
+
+
 ### How to reach me on social media
 - [Linkedin](https://www.linkedin.com/in/dorde-nikolic-91b4791ba/)
 
