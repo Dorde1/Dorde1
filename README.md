@@ -34,7 +34,7 @@ Technical Skills:
 - Windows
 
 ### How to reach me on social media
-- [Linkedin](https://www.linkedin.com/in/dorde-nikolic-game-developer/)
+- [LinkedIn](https://www.linkedin.com/in/dorde-nikolic-game-developer/)
 - [Website](https://dordenikolic13.wixsite.com/main)
 
 ### Languages
