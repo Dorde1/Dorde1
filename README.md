@@ -15,10 +15,10 @@ Experience in using: C#, React.js, Python, JAVA, Agile Methodologies, Unity, Git
 Personal Website - https://dordenikolic13.wixsite.com/main
 
 Programming Skills:
-➤ C#
-➤ React.js
-➤ Python
-➤ JAVA
+➤ C# </a>
+➤ React.js </a>
+➤ Python </a>
+➤ JAVA </a>
 
 Soft Skills:
 ➤ Teamwork
