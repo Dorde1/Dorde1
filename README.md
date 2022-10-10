@@ -11,8 +11,6 @@ Seeking to obtain a Junior Game Developer position, that would allow enhancing k
 
 Experience in using: C#, React.js, Python, JAVA, Agile Methodologies, Unity, GitHub, Blender, Front-End Development.
 
-Personal Website - https://dordenikolic13.wixsite.com/main
-
 Programming Skills:
 - C#
 - React.js
@@ -36,7 +34,8 @@ Technical Skills:
 - Windows
 
 ### How to reach me on social media
-- [Linkedin](https://www.linkedin.com/in/dorde-nikolic-software-developer/)
+- [Linkedin](https://www.linkedin.com/in/dorde-nikolic-game-developer/)
+- [Website](https://dordenikolic13.wixsite.com/main)
 
 ### Languages
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
