@@ -15,26 +15,26 @@ Experience in using: C#, React.js, Python, JAVA, Agile Methodologies, Unity, Git
 Personal Website - https://dordenikolic13.wixsite.com/main
 
 Programming Skills:
-➤ C# </a>
-➤ React.js </a>
-➤ Python </a>
-➤ JAVA </a>
+- C#
+- React.js
+- Python
+- JAVA
 
 Soft Skills:
-➤ Teamwork
-➤ Communication
-➤ Problem-solving
-➤ Time-management
-➤ Adaptability
-➤ Work ethic
+- Teamwork
+- Communication
+- Problem-solving
+- Time-management
+- Adaptability
+- Work ethic
 
 Technical Skills:
-➤ Unity
-➤ Godot
-➤ Blender
-➤ GitHub
-➤ Microsoft Office
-➤ Windows
+- Unity
+- Godot
+- Blender
+- GitHub
+- Microsoft Office
+- Windows
 
 ### How to reach me on social media
 - [Linkedin](https://www.linkedin.com/in/dorde-nikolic-software-developer/)
