@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 📚 I’m currently learning about GitHub, Java, Python, Unity, Blender, Flutter and React
 - 📫 How to reach me: dordenikolic13@gmail.com
 - 🧑 About me: Love making and playing games
 
