@@ -7,7 +7,7 @@
 
 I’m a dedicated and detail-oriented junior game and web developer, based in New Zealand, with one year of experience, accustomed to working in fast-paced and deadline-driven environments.
 
-I am seeking to obtain a junior game and web developer position that would allow me to enhance my knowledge and personal strengths and allow my creative skills and programming knowledge to be an asset to the company.
+I am seeking to obtain a junior game or web developer position that would allow me to enhance my knowledge and personal strengths, leveraging my creative skills and programming knowledge to be a valuable asset to the company.
 
 Experienced in using: C#, React.js, Python, JAVA, Agile methodologies, Unity, GitHub, Blender, and front-end development.
 
