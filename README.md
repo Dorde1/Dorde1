@@ -35,7 +35,6 @@ Technical Skills:
 
 ### How to reach me on social media
 - [LinkedIn](https://www.linkedin.com/in/dorde-nikolic-game-developer/)
-- [Website](https://dordenikolic13.wixsite.com/main)
 
 ### Languages
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
